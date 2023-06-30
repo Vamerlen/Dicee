@@ -1,0 +1,2 @@
+# Dicee
+Play Dice Game
